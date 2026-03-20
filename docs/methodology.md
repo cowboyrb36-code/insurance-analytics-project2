@@ -1,1 +1,1 @@
-
+This project analyzes medical insurance charges to identify the strongest cost drivers across demographic, behavioral, and regional variables. The workflow follows a complete analytics lifecycle: data cleaning → SQL analysis → visualization → insights → documentation.
